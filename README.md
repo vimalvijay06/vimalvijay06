@@ -68,10 +68,10 @@ This project demonstrates practical application of Machine Learning for environm
 ---
 
 ### 🌱 ZECA – Zero Carbon Emission Project
-Designed a sustainability-focused system aimed at **monitoring and reducing carbon emissions** through data tracking and awareness modules.  
-Worked on structuring the application logic and defining measurable environmental impact metrics.  
-This project highlights problem-solving for real-world climate challenges.  
-**Focus Areas:** Sustainability, Carbon Tracking, System Design
+Designed a sustainability-focused system aimed at monitoring and reducing carbon emissions through data tracking and awareness modules.  
+Worked on structuring application logic and defining measurable environmental impact metrics.  
+Highlights problem-solving for real-world climate and energy challenges.  
+Focus: Sustainability, Carbon Tracking, System Design
 ---
 
 ## 📚 Coursework Focus
