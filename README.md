@@ -55,7 +55,7 @@ Implemented protected routes, dynamic book search, issue/return workflow, and re
 Focused on clean folder structure, reusable components, and scalable frontend design.  
 **Tech:** React, Vite, Tailwind CSS, React Router  
 🔗 Repository: https://github.com/vimalvijay06/Library  
-🔗 Live Demo: [https://your-vercel-link](https://library-tau-sage.vercel.app)
+🔗 Live Demo: https://library-tau-sage.vercel.app
 
 ---
 
