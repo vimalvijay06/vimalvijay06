@@ -47,26 +47,31 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
-
 ## 🚀 Key Projects
 
 ### 📚 Library Management System – Full Stack
-Role-based **Admin & Member dashboards**, protected routes, book search, issue/return workflow, and responsive UI.  
-**Tech:** React, Vite, Tailwind, React Router  
+Developed a role-based web application with separate **Admin** and **Member** dashboards.  
+Implemented protected routes, dynamic book search, issue/return workflow, and responsive UI using component-based architecture.  
+Focused on clean folder structure, reusable components, and scalable frontend design.  
+**Tech:** React, Vite, Tailwind CSS, React Router  
 🔗 Repository: https://github.com/vimalvijay06/Library  
 🔗 Live Demo: https://your-vercel-link
 
 ---
 
 ### ♻️ Plastic Waste Segregation using Image Classification
-Computer Vision model that **classifies plastic types from images** to support automated waste segregation.  
-**Tech:** Python, OpenCV, CNN
+Built a **Computer Vision model** that classifies different types of plastic waste from images to support automated waste segregation.  
+Performed image preprocessing, model training, and prediction using CNN-based architecture.  
+This project demonstrates practical application of Machine Learning for environmental sustainability.  
+**Tech:** Python, OpenCV, Convolutional Neural Networks (CNN)
 
 ---
 
 ### 🌱 ZECA – Zero Carbon Emission Project
-Sustainability-focused system designed to **monitor and reduce carbon emissions** through smart tracking and awareness modules.
-
+Designed a sustainability-focused system aimed at **monitoring and reducing carbon emissions** through data tracking and awareness modules.  
+Worked on structuring the application logic and defining measurable environmental impact metrics.  
+This project highlights problem-solving for real-world climate challenges.  
+**Focus Areas:** Sustainability, Carbon Tracking, System Design
 ---
 
 ## 📚 Coursework Focus
